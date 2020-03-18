@@ -1,1 +1,6 @@
 .idea
+.csv
+*.csv
+*.idea
+*.h5
+*.jpg
